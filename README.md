@@ -14,6 +14,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/meshishu/LEETCODE-/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/meshishu/LEETCODE-/tree/master/0217-contains-duplicate) |
+| [1572-matrix-diagonal-sum](https://github.com/meshishu/LEETCODE-/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/meshishu/LEETCODE-/tree/master/0217-contains-duplicate) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/meshishu/LEETCODE-/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
